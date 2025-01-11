@@ -4,7 +4,7 @@ const WhatWeDo = () => {
     return (
         <div className=''>
             
-<section style={{backgroundImage: "url('../../public/image 3.png')"}} className="px-3 py-5 lg:py-10">
+<section style={{backgroundImage: "url('./image 3.png')"}} className="px-3 py-5 lg:py-10">
     <div className="grid lg:grid-cols-2 items-center justify-items-center mt-16">
         <div className="order-2 lg:order-1 flex flex-col">
             <h1 className='text-6xl font-semibold'>What do we <br /> do?</h1>

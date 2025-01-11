@@ -31,7 +31,7 @@ const SeoStrategy = () => {
 
         </div>
           <div className="absolute top-48 -left-24">
-            <img src="../../../public/rocket.png" alt="" srcSet="" />
+            <img src="./rocket.png" alt="" srcSet="" />
           </div>
       </div>
     </div>

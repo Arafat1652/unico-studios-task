@@ -28,7 +28,7 @@ const WhatIsSeo = () => {
             
         </div>
         <div className="order-1 lg:order-2 bg-white rounded-xl w-[66.5%] p-16">
-            <img className="h-[241px] w-[241px] mx-auto " src="../../../public/search.png" alt=""/>
+            <img className="h-[241px] w-[241px] mx-auto " src="./search.png" alt=""/>
             <p className='text-black text-justify ml-40 mt-8 w-[530px]'>Ensures your website appears at the top of search <br /> results, where potential customers are looking.</p>
         </div>
     </div>

@@ -13,7 +13,7 @@ const OurWork = () => {
           <div className="translate-x-4">
             <img
               className="w-[484px] h-[306px]"
-              src="../../public/laptop.png"
+              src="./laptop.png"
               alt="Image"
             />
             <div className="p-4 text-white">
@@ -24,7 +24,7 @@ const OurWork = () => {
           <div className="translate-x-24">
             <img
               className="w-[484px] h-[306px]"
-              src="../../public/image.png"
+              src="./image.png"
               alt="Image"
             />
             <div className="p-4 text-white">
@@ -35,7 +35,7 @@ const OurWork = () => {
           <div className="translate-x-48">
             <img
               className="w-[484px] h-[306px]"
-              src="../../public/laptop2.png"
+              src="./laptop2.png"
               alt="Image"
             />
             <div className="p-4 text-white">

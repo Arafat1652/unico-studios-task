@@ -13,7 +13,7 @@ const WhyChooseUs = () => {
           >
             <img
               className=" ml-3  sm:mr-0"
-              src="../../../public/approach.png"
+              src="./approach.png"
               alt="Framework7"
             />
 
@@ -26,7 +26,7 @@ const WhyChooseUs = () => {
           >
             <img
               className=" ml-3  sm:mr-0"
-              src="../../../public/repot.png"
+              src="./repot.png"
               alt="Framework7"
             />
 
@@ -39,7 +39,7 @@ const WhyChooseUs = () => {
           >
             <img
               className=" ml-3  sm:mr-0"
-              src="../../../public/strategie.png"
+              src="./strategie.png"
               alt="Framework7"
             />
 
@@ -53,7 +53,7 @@ const WhyChooseUs = () => {
           >
             <img
               className=" ml-3  sm:mr-0"
-              src="../../../public/success.png"
+              src="./success.png"
               alt="Framework7"
             />
 

@@ -1,8 +1,8 @@
-import marketing from '../../public/marketing.svg';
-import d3 from '../../public/d3.svg';
-import ui from '../../public/ui.svg'
-import branding from '../../public/branding.svg'
-import  seo from '../../public/seo.svg'
+// import marketing from './marketing.svg';
+// import d3 from './d3.svg';
+// import ui from './ui.svg'
+// import branding from '.branding.svg'
+// import  seo from './seo.svg'
 
 const TypeServices = () => {
   return (
@@ -18,7 +18,7 @@ const TypeServices = () => {
     <li className=" px-6 py-8 shadow-sm border-[1px] rounded-2xl border-b-8 border-black">
 
       <h3 className="my-3 font-display font-bold text-3xl">UI/UX</h3>
-      <img src={ui} alt="" className="mx-auto w-[187px] h-[177px]"/>
+      <img src='./ui.svg' alt="" className="mx-auto w-[187px] h-[177px]"/>
       <p className="mt-7 text-sm text-left text-secondary-500 w-[309px]">
       Enhance user experiences with intuitive UI/UX design. We focus on crafting visually appealing websites and apps that engage and retain users.
       </p>
@@ -28,7 +28,7 @@ const TypeServices = () => {
     <li className=" px-6 py-3 mt-5 shadow-sm border-[1px] rounded-2xl border-b-8 border-black">
 
       <h3 className="my-3 font-display font-bold text-3xl">3D Design</h3>
-      <img src={d3} alt="" className="mx-auto"/>
+      <img src='./d3.svg' alt="" className="mx-auto"/>
       <p className="mt-2 text-sm text-left text-secondary-500 w-[309px]">
       Bring your concepts to life with our 3D design services. From realistic modeling to engaging animations, we create immersive visuals that captivate audiences.
       </p>
@@ -56,7 +56,7 @@ const TypeServices = () => {
     <li className="mt-4 px-6 py-2 shadow-sm border-[1px] rounded-2xl border-b-8 border-black">
 
       <h3 className="my-5 font-display font-bold text-3xl">Branding</h3>
-      <img src={branding} alt="" className="mx-auto w-[158px] h-[150px]"/>
+      <img src="./branding.svg" alt="" className="mx-auto w-[158px] h-[150px]"/>
       <p className="mt-4 mb-3 text-sm text-left text-secondary-500 w-[309px]">
       Enhance user experiences with intuitive UI/UX design. We focus on crafting visually appealing websites and apps that engage and retain users.
       </p>
@@ -70,7 +70,7 @@ const TypeServices = () => {
     <li className=" px-6 py-8 shadow-sm border-[1px] rounded-2xl border-b-8 border-black">
 
       <h3 className="my-3 font-display font-bold text-3xl">Marketing</h3>
-      <img src={marketing} alt="" className="mx-auto w-[187px] h-[177px]"/>
+      <img src='./marketing.svg' alt="" className="mx-auto w-[187px] h-[177px]"/>
       <p className="mt-7 text-sm text-left text-secondary-500 w-[309px]">
       Unlock your brand’s potential with tailored digital marketing strategies. From SEO and social media to email marketing, we drive traffic and engagement that converts.
       </p>
@@ -80,7 +80,7 @@ const TypeServices = () => {
     <li className=" px-6 py-3 mt-5 shadow-sm border-[1px] rounded-2xl border-b-8 border-black">
 
       <h3 className="my-3 font-display font-bold text-3xl">SEO</h3>
-      <img src={seo} alt="" className="mx-auto"/>
+      <img src="./seo.svg" alt="" className="mx-auto"/>
       <p className="mt-2 text-sm text-left text-secondary-500 w-[309px]">
       Tell your brand story through compelling content. Our services include copywriting and visual content creation that resonate with your target audience.
       </p>

@@ -1,4 +1,4 @@
-import { BsArrowRightCircleFill } from "react-icons/bs";
+
 import { IoArrowForwardCircleOutline } from "react-icons/io5";
 
 const SeoStrategy = () => {
@@ -6,6 +6,13 @@ const SeoStrategy = () => {
     <div>
       <div className="relative container mx-auto rounded-[56px]">
         <div className=" isolate overflow-hidden bg-unic px-6 py-24 shadow-2xl rounded-[27px] sm:rounded-3xl sm:px-24 xl:py-32 text-center">
+        <div className="relative w-full bg-[#2B2B2B]">
+  
+  <div className="absolute -top-28 -left-24 h-[200px] w-[200px] bg-white blur-[100px] rounded-full"></div>
+
+  
+  <div className="absolute top-24 -right-24 h-[200px] w-[100px] bg-white blur-[80px] rounded-full"></div>
+</div>
           <h2 className="text-5xl text-center font-bold  text-white ">
           Contact Us for a 
           

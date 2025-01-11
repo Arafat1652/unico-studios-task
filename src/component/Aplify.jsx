@@ -7,7 +7,13 @@ const Aplify = () => {
             <div className=" mt-16">
     <div
         className="relative isolate overflow-hidden bg-unic px-6 py-24 shadow-2xl rounded-[27px] sm:rounded-3xl sm:px-24 xl:py-32 text-center">
-       
+       <div className="relative w-full bg-[#2B2B2B]">
+  
+  <div className="absolute -left-24 h-[200px] w-[200px] bg-white blur-[100px] rounded-full"></div>
+
+  
+  <div className="absolute -top-24 -right-24 h-[200px] w-[300px] bg-white blur-[100px] rounded-full"></div>
+</div>
         <h2 className="text-7xl text-center font-bold  text-white -translate-x-40">Let's Amplify,
         </h2>
         <h2 className="translate-x-24 text-7xl text-white font-bold">Your Brand's Impact</h2>

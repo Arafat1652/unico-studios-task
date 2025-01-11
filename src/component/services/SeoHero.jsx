@@ -7,7 +7,7 @@ const SeoHero = () => {
       <section className="sm:mt-6 lg:mt-8 mt-12 mx-auto ">
         <div className="my-10 container mx-auto sm:mt-12 sm:px-6 md:mt-16 lg:mt-20  xl:mt-28 flex  lg:flex-justify lg:flex flex-col lg:flex-row gap-10">
           <div className="sm:text-center lg:text-left">
-            <h1 className="text-5xl tracking-tight text-gray-800">
+            <h1 className="text-5xl font-medium tracking-tight text-gray-800">
               Search Engine Optimization
             </h1>
             <p className="text-xl mt-3 sm:mt-5 w-[558px] sm:mx-auto md:mt-5  lg:mx-0 text-justify">
